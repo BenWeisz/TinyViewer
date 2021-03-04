@@ -7,6 +7,10 @@
 	"engines": {
 		"vscode": "^1.53.0"
 	},
+	"repository": {
+    "type": "git",
+    "url": "https://github.com/BenWeisz/TinyViewer.git"
+  },
 	"categories": [
 		"Other"
 	],
